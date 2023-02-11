@@ -1,0 +1,3 @@
+﻿  ClassesApp.cpp
+C:\PO\TechRPO\ClassesApp\ClassesApp.cpp(41,7): warning C4101: objA: неиспользованная локальная переменная
+  ClassesApp.vcxproj -> C:\PO\TechRPO\ClassesApp\x64\Debug\ClassesApp.exe
